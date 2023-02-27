@@ -1,6 +1,6 @@
 # Sensor de Umidade do Solo
 
-Este projeto foi desenvolvido com base no tutorial de @dmainmon, disponível em:
+Este projeto foi desenvolvido com base no tutorial de [@dmainmon](https://github.com/dmainmon), disponível em:
 <https://www.instructables.com/ESP8266-Soil-Moisture-Sensor-With-Arduino-IDE/>
 
 ## Materiais
